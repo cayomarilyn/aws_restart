@@ -1,0 +1,2 @@
+print("la wea mistica")
+ 
